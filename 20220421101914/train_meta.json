@@ -1,0 +1,18 @@
+{
+    "module": "exem_aiops_exploratory_data_analysis",
+    "sys_id": "102",
+    "inst_type": "was",
+    "target_id": "214",
+    "metric": [
+        "active_db_conn_count",
+        "tps"
+    ],
+    "from_date": "202203151130",
+    "to_date": "202203151230",
+    "pred_date":"202206160900",
+    "algorithm": "ocsvm",
+    
+    "business_list": [],
+    "except_business_list": [],
+    "inst_id": 8 
+}
